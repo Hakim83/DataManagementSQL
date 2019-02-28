@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\DataManagementSQL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5bcf6fa308b12429b7107766408674feedff45c8">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\DataManagementSQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6fb0b3d648eb0a72b50f262fd32824d5439dae21\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\DataManagementSQL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="137c17ff8f578382a21a007caabcb2f116d05829">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\DataManagementSQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bfdbc7c68c424c57faec554d7153970531b3af13\classes.dex" />
+    </item>
+
+</items>
